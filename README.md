@@ -1,2 +1,2 @@
 # VotingSystem
- An electronic system for voting in Italy in Java + Java FX
+an electronic voting system to vote in italy developed in Java + Java FX
