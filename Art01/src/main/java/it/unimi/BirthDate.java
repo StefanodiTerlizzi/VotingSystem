@@ -14,6 +14,6 @@ public class BirthDate {
 	
 	@Override
 	public String toString() {
-		return day+"/"+month+"/"+year;
+		return day+"-"+month+"-"+year;
 	}
 }
